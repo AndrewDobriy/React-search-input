@@ -1,5 +1,5 @@
 {
-  "name": "React-search-input",
+  "name": "react-search-input",
   "homepage": "http://AndrewDobriy.github.io/React-search-input",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
